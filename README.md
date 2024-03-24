@@ -1,2 +1,2 @@
 # Hand_kill
-my-first-project.
+源自于2016年，一直有想把它做成网络游戏的想法。
