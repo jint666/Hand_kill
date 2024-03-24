@@ -33,16 +33,16 @@
 
 4. 当一名玩家血量小于等于0时结束，对方胜利。
 ### 游戏玩法
-![image](https://github.com/jint666/Hand_kill/assets/120358285/5ca10666-dab1-4c9c-9adc-414f9885d89c)
-![image](https://github.com/jint666/Hand_kill/assets/120358285/a4b32877-8dad-4623-97a8-1b0cf142309b)
+#### ![image](https://github.com/jint666/Hand_kill/assets/120358285/5ca10666-dab1-4c9c-9adc-414f9885d89c)
+#### ![image](https://github.com/jint666/Hand_kill/assets/120358285/a4b32877-8dad-4623-97a8-1b0cf142309b)
 - 选项1：人机对战
 - 选项2：双人模式
 - 选项3：电子斗蛐蛐（玩家1随机碰点，玩家二策略碰点，大家可以根据自己的想法修改代码，两个玩家都随机碰点，这才是真正的电子斗蛐蛐！）
-![image](https://github.com/jint666/Hand_kill/assets/120358285/2542a9bf-ec32-49a3-bfe9-877756affbc2)
+#### ![image](https://github.com/jint666/Hand_kill/assets/120358285/2542a9bf-ec32-49a3-bfe9-877756affbc2)
 - 例如上图，“1 1”代表用自己的第一个点数碰对方第一个点数。
-![image](https://github.com/jint666/Hand_kill/assets/120358285/d8327f1d-9f24-42a9-85ed-11296734b01e)
+#### ![image](https://github.com/jint666/Hand_kill/assets/120358285/d8327f1d-9f24-42a9-85ed-11296734b01e)
 - 例如上图，此时会打印出当前局势。
-![image](https://github.com/jint666/Hand_kill/assets/120358285/6b5437f6-f17d-4ce3-b545-0ef398259382)
+#### ![image](https://github.com/jint666/Hand_kill/assets/120358285/6b5437f6-f17d-4ce3-b545-0ef398259382)
 - 例如上图，机器选择最优碰点，四个数分别代表对机器而言的四种碰点势头（1 1、1 2、2 1、2 2碰点），接着显示机器碰点后的局势。
 - 轮到你碰点，直到一方角色死亡游戏结束。
 
